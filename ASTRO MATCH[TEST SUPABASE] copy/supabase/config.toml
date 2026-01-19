@@ -1,0 +1,16 @@
+project_id = "dilpevnhcqkpjzhgkace"
+
+[functions.generate-kundli]
+verify_jwt = false
+
+[functions.calculate-compatibility]
+verify_jwt = false
+
+[functions.diagnostics-users]
+verify_jwt = false
+
+[functions.backfill-kundli]
+verify_jwt = false
+
+[functions.recalculate-compatibility]
+verify_jwt = false
